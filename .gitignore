@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Build/output
+.next/
+dist/
+out/
+
+# Variáveis de ambiente
+.env*
+
+# Logs
+*.log
+
+# IDE / sistema
+.vscode/
+.DS_Store
